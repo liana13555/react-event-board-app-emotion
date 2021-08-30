@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-event-board-app-emotion/static/css/main.db6ad8cf.chunk.css",
+    "main.js": "/react-event-board-app-emotion/static/js/main.48fe781b.chunk.js",
+    "main.js.map": "/react-event-board-app-emotion/static/js/main.48fe781b.chunk.js.map",
+    "runtime-main.js": "/react-event-board-app-emotion/static/js/runtime-main.f81251e5.js",
+    "runtime-main.js.map": "/react-event-board-app-emotion/static/js/runtime-main.f81251e5.js.map",
+    "static/js/2.2ccfc50d.chunk.js": "/react-event-board-app-emotion/static/js/2.2ccfc50d.chunk.js",
+    "static/js/2.2ccfc50d.chunk.js.map": "/react-event-board-app-emotion/static/js/2.2ccfc50d.chunk.js.map",
+    "index.html": "/react-event-board-app-emotion/index.html",
+    "static/css/main.db6ad8cf.chunk.css.map": "/react-event-board-app-emotion/static/css/main.db6ad8cf.chunk.css.map",
+    "static/js/2.2ccfc50d.chunk.js.LICENSE.txt": "/react-event-board-app-emotion/static/js/2.2ccfc50d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81251e5.js",
+    "static/js/2.2ccfc50d.chunk.js",
+    "static/css/main.db6ad8cf.chunk.css",
+    "static/js/main.48fe781b.chunk.js"
+  ]
+}
