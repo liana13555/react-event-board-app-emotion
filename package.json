@@ -2,7 +2,7 @@
   "name": "react-event-board-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liana13555.github.io/react-event-board-app",
+  "homepage": "https://liana13555.github.io/react-event-board-app-emotion",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
